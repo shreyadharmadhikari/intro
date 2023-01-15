@@ -1,2 +1,2 @@
-### This is some message which may conflict with main branch
-### Have a good day :)
+## I am learning git
+### This is references.md
